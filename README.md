@@ -90,13 +90,3 @@ The project identified significant temporal patterns in my YouTube watching habi
 Future work could explore:
 	•	The impact of YouTube recommendations on behavior.
 	•	Predictive modeling of viewing habits.
-
-## How to Reproduce
-1.	Install Dependencies:
-	•	Python 3.x
-	•	Libraries: Pandas, Matplotlib, SciPy
-2.	Steps:
-	•	Use fetch_youtube_data.py to enrich raw YouTube data with API queries.
-	•	Process the data using process_data.py (e.g., converting duration to seconds, creating time segments).
-	•	Perform statistical analyses using statistical_tests.py.
-	•	Visualize findings with visualize_results.py.
