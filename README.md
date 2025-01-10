@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes YouTube watching habits to uncover patterns and trends in category preferences, engagement metrics, and temporal variations. By combining personal watch history with additional metadata fetched via the YouTube API, the project investigates changes in viewing behavior over time and different parts of the day using statistical techniques.
+See the final report of the project: https://docs.google.com/document/d/1JmA1sLy72cVpHmWHRxrWubgXwArzaZKVPu6x_3K--Qc/edit?usp=sharing
 
 ## 1. Data Collection
 1.	YouTube Watch History:
